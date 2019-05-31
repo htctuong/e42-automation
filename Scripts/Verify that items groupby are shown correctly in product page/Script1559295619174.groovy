@@ -60,5 +60,3 @@ WebUI.verifyTextPresent(item9, false)
 
 WebUI.verifyTextPresent(item10, false)
 
-WebUI.verifyTextPresent(item11, false)
-
