@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that chart detail is shown correctly when users click on chart canvas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3fe66720-2507-4c7b-bcc1-3f190f7440e7</testCaseGuid>
+</TestCaseEntity>
